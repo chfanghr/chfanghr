@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+```c++
+auto main() -> int{
+  while(+[]{});
+  return 0;
+}
+```
+
 <!--
 **chfanghr/chfanghr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
