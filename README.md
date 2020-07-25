@@ -1,7 +1,5 @@
 ### Hi 👋
 
----
-
 I'm fanghr, a ***brainless***
 
 * game developer
