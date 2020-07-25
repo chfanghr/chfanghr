@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi 👋
 
-I'm fanghr from China, brainless game/backend/compiler developer, university student at NWPU.
+---
 
-```c++
-auto main() -> int{
-  while(+[]{});
-  return 0;
-}
-```
+I'm fanghr, a ***brainless***
+
+* game developer
+* backend developer
+* compiler developer
+* university student at NWPU.
