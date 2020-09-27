@@ -1,12 +1,11 @@
 ### Hi 👋
+This is fanghr, a ***brainless***
 
-I'm fanghr, a ***brainless***
-
-* game developer
-* backend developer
-* compiler developer
-* university student at NWPU.
+  * Game (Unity 🟡 | Unreal Engine 🟢 )
+  * Backend   
+  * Compiler 
+  
+Developer, also University Student @NWPU.
 
 ![chfnaghr's github stats](https://github-readme-stats.vercel.app/api?username=chfanghr&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chfanghr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
