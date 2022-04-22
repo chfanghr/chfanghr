@@ -5,9 +5,8 @@ I'm (proudly) a full time haskeller.
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      22 hrs 11 mins  █████████████████████▓░░░   86.29 %
-sh           3 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-Makefile     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Haskell      27 hrs 31 mins  █████████████████████▓░░░   86.71 %
+sh           4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
 Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
