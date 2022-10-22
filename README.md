@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Haskell      16 hrs 45 mins  ███████████████████████░░   92.26 %
-PureScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Haskell      14 hrs 18 mins  ██████████████████████▒░░   89.02 %
+PureScript   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
