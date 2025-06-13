@@ -3,8 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nix    4 hrs 1 min     █████████████████████████   99.95 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Nix   3 hrs 8 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
