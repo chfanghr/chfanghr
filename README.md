@@ -3,7 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Nix     54 mins         ████████████████████████▒   97.66 %
+Other   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
