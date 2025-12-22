@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-OCaml   47 mins         ████████████████░░░░░░░░░   64.05 %
-Nix     23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Other   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
